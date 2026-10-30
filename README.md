@@ -1,8 +1,8 @@
-# FanBlower — Продувка кулеров
+# CleanFan
 
 *[Русская версия ниже](#русский)*
 
-Spins your MacBook's fans up to their factory maximum for a couple of minutes to blow out dust.
+CleanFan spins your MacBook's fans up to their factory maximum for a couple of minutes to blow out dust.
 
 - Live RPM for every fan.
 - **Max** mode keeps full speed; **Pulse** alternates max and min (10 s / 5 s) — the changing airflow knocks dust loose better.
@@ -13,13 +13,13 @@ Requires a Mac with fans, macOS 15 or later.
 
 ## Install
 
-Through [Currant](https://github.com/white-currant/Currant), or download `FanBlower.dmg` from [Releases](https://github.com/white-currant/FanBlower/releases/latest) and drag the app to Applications.
+Through [Currant](https://github.com/white-currant/Currant), or download `CleanFan.dmg` from [Releases](https://github.com/white-currant/CleanFan/releases/latest) and drag the app to Applications.
 
 ---
 
 ## Русский
 
-Раскручивает кулеры MacBook до заводского максимума на пару минут, чтобы выдуть пыль.
+CleanFan раскручивает кулеры MacBook до заводского максимума на пару минут, чтобы выдуть пыль.
 
 - Обороты всех кулеров в реальном времени.
 - Режим **«Максимум»** держит полные обороты; **«Пульсация»** чередует максимум и минимум (10 с / 5 с) — перепады потока лучше сбивают пыль.
@@ -30,4 +30,4 @@ Through [Currant](https://github.com/white-currant/Currant), or download `FanBlo
 
 ### Установка
 
-Через [Currant](https://github.com/white-currant/Currant) или скачайте `FanBlower.dmg` со страницы [Releases](https://github.com/white-currant/FanBlower/releases/latest) и перетащите приложение в «Программы».
+Через [Currant](https://github.com/white-currant/Currant) или скачайте `CleanFan.dmg` со страницы [Releases](https://github.com/white-currant/CleanFan/releases/latest) и перетащите приложение в «Программы».
