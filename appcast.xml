@@ -7,6 +7,18 @@
         <language>ru</language>
         <!-- Пункты релизов добавляются сюда скриптом publish-release.sh -->
         <item>
+            <title>Версия 1.3</title>
+            <pubDate>Fri, 30 Oct 2026 19:47:25 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/white-currant/CleanFan/releases/download/v1.3/CleanFan-1.3.zip"
+                length="2154796"
+                type="application/octet-stream"
+                sparkle:edSignature="Xp3A/Re8olcxvVhYo1cbHPwuMGDJriSiL1qANC7SGyQm9fi2RwPBAgvrcvP75f+0fEe0+KE+Jh4PxDvVJcwsBA==" />
+        </item>
+        <item>
             <title>Версия 1.2</title>
             <pubDate>Fri, 30 Oct 2026 19:20:14 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
